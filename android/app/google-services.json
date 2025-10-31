@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626271712976",
+    "project_id": "timemerge-74d66",
+    "storage_bucket": "timemerge-74d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626271712976:android:3abdf218aa1c5f68e010d5",
+        "android_client_info": {
+          "package_name": "com.example.timemerge_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCct08NDcR8etOPXZWeFLyKQzBrRWu5-WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
